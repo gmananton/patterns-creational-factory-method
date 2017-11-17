@@ -1,1 +1,2 @@
-# patterns-creational-factory-method
+
+# [Factory Method](https://refactoring.guru/ru/design-patterns/factory-method)
